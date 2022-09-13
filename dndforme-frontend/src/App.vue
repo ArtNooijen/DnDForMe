@@ -1,6 +1,7 @@
 <template>
 
   <HelloWorld msg="This is a quick test"/>
+  <H1> This is a quick test to implement something</H1>
 </template>
 
 <script>
