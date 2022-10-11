@@ -1,0 +1,17 @@
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.csproj.AssemblyReference.cache
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.AssemblyInfoInputs.cache
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.AssemblyInfo.cs
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.csproj.CoreCompileInputs.cache
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeFactory.deps.json
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeFactory.dll
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeFactory.pdb
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeAPIData.dll
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeAPIInterface.dll
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeAPIData.pdb
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\bin\Debug\net6.0\DNDForMeAPIInterface.pdb
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.csproj.CopyComplete
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.dll
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\refint\DNDForMeFactory.dll
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\DNDForMeFactory.pdb
+C:\Users\atgno\OneDrive - Office 365 Fontys\Semester 3 Portfolio Art Nooijen\1-Web Application\DNDForMeAPI\DNDForMeFactory\obj\Debug\net6.0\ref\DNDForMeFactory.dll
