@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t8LT1wjk9vlw3tYoHAe1oyVSnX8e/+DcNg581rQuuhIfP9x/jafcvXPIrTdE+OzQaRDM2l2CHi1iIT6CZTxVRg==",
+  "dgSpecHash": "RtYj0qxhGyEvLwo3gyzLa4YreHxxrmMT7y0GdJauPvnsMArtGSUZbdCGnx3KS0j9RFFGR+BCZ5JJejuboTpJEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeFactory\\DNDForMeFactory.csproj",
+  "projectFilePath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeFactory\\DNDForMeFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atgno\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\atgno\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

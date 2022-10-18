@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj": {}
+    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj": {
+    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj",
         "projectName": "DNDForMeAPI",
-        "projectPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj",
+        "projectPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj",
         "packagesPath": "C:\\Users\\atgno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPI\\obj\\",
+        "outputPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

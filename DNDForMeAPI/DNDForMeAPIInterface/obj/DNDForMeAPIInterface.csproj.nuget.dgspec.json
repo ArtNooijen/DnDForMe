@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj": {}
+    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj": {
+    "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj",
+        "projectUniqueName": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj",
         "projectName": "DNDForMeAPIInterface",
-        "projectPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj",
+        "projectPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPIInterface\\DNDForMeAPIInterface.csproj",
         "packagesPath": "C:\\Users\\atgno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPIInterface\\obj\\",
+        "outputPath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPIInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

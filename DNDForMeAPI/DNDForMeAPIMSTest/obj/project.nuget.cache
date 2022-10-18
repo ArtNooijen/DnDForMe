@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FXYL4eZWWA4GExea+y17Pv0OCZxomwZgZCSD72Qe2G1D90udszqJ8nLs5YOi1SCcSdnMpb6yvOwkqhkecLhwOw==",
+  "dgSpecHash": "FmC4Yo14cmFQqJoL9gS9xAzt6jT3SqQKTrTDc4qTFbKJalrOM98UglRkss4SWe78Due/2A3QEd+x6SElWSo7vQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPIMSTest\\DNDForMeAPIMSTest.csproj",
+  "projectFilePath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPIMSTest\\DNDForMeAPIMSTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atgno\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\atgno\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

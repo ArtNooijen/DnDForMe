@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g8ojAKCesWxEqS6v9w/7kFLHsEftlDGXGK0fzCVZY+tZR2ByM6+tzzSBAHV+k+6I6DTbcRs6puw2jsR21eYL6A==",
+  "dgSpecHash": "Q/atxM9UbZrJpbEXZwXn7Lr5J8GgGbi/Xjcf/yebLogx1GSrP+d+OJ8K1/IX7R2pSdxjhYbdG8tagvta5r+lcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\1-Web Application\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj",
+  "projectFilePath": "C:\\Users\\atgno\\OneDrive - Office 365 Fontys\\Semester 3 Portfolio Art Nooijen\\DnDForMe\\DNDForMeAPI\\DNDForMeAPI\\DNDForMeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atgno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\atgno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
