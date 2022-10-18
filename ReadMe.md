@@ -19,7 +19,9 @@ Learning outcome: You design and build user-friendly, full-stack web application
 
 I try to create a positive user experience. To this end I have created a few Storyboard [designs and implemented a colour pallet research](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/Colour%20Pallet%20and%20storyboard%20designs.pdf) for DNDForMe. At the same time, I implement the best practices I can. I do this by doing a [UX Research](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/UX%20Research.pdf) based on the DOT Framework. Combining these elements I hope to provide the user with a pleasant and easy experience on DNDForMe. 
 
+
 //todo You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
+
 
 ### 2. Software quality
 Learning outcome: You use software tooling and methodology that continuously monitors and 
