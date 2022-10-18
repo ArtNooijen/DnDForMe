@@ -14,28 +14,28 @@ My name is Art Nooijen, a 23-year-old student. I am studying HBO-ICT Demand-base
 This Document contains the information I will make for Semester 2: 
 This is contained below: 
 
-1. Web application
+### 1. Web application
 Learning outcome: You design and build user-friendly, full-stack web applications. 
 
-2. Software quality
+### 2. Software quality
 Learning outcome: You use software tooling and methodology that continuously monitors and 
 
-3. Agile method
+### 3. Agile method
 Learning outcome You choose and implement the most suitable agile software development method for your software project.
 
-4. CI/CD
+### 4. CI/CD
 Learning outcome: You design and implement a (semi)automated software release process that matches the needs of the project context. 
 
-5. Cultural differences and ethics
+### 5. Cultural differences and ethics
 Learning outcome: You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
 
-6. Requirements and design
+### 6. Requirements and design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
 
-7. Business processes
+### 7. Business processes
 Learning outcome: You analyze and describe simple business processes that are related to your project. 
 
-8. Professional
+### 8. Professional
 Learning outcome: You act in a professional manner during software development and learning. 
 
 One way I have shown my professionalism is by making and presenting a workshop together with my fellow student. I have explained the Agile manifesto. I have done this in the way of giving [examples and the history of the Agile Manifesto.](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/Agile-Scrum%20workshop-%20Art%20Nooijen.pdf))
