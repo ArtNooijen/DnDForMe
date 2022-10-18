@@ -17,6 +17,7 @@ This is contained below:
 ### 1. Web application
 Learning outcome: You design and build user-friendly, full-stack web applications. 
 
+For designing DNDForMe i have created a few storyboard designs. Also i have done a UX Research Based on the DOT Framework.
 ### 2. Software quality
 Learning outcome: You use software tooling and methodology that continuously monitors and 
 
@@ -31,6 +32,8 @@ Learning outcome: You recognize and take into account cultural differences betwe
 
 ### 6. Requirements and design
 Learning outcome: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques.
+
+The requirements I have made are based on my focus group (teenager-senior Dungeon and Dragon players) They are ranked via the MoSCoW method. The user Storys have been ranked based on importance by the product owner(me). You can find my requirements [here](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/Requirement-UC.pdf). 
 
 ### 7. Business processes
 Learning outcome: You analyze and describe simple business processes that are related to your project. 
