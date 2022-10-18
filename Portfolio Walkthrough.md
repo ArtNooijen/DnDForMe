@@ -38,7 +38,7 @@ Learning outcome: You analyze and describe simple business processes that are re
 8. Professional
 Learning outcome: You act in a professional manner during software development and learning. 
 
-One way I have shown my professionalism is by making and presenting a workshop together with my fellow student. I have explained the Agile manifesto. I have done this in the way of giving examples and the history of the Agile Manifesto. [An Internal Link](/Documentation/Agile-Scrum workshop- Art Nooijen)
+One way I have shown my professionalism is by making and presenting a workshop together with my fellow student. I have explained the Agile manifesto. I have done this in the way of giving [examples and the history of the Agile Manifesto.](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/Agile-Scrum%20workshop-%20Art%20Nooijen.pdf))
 
 
 This Project was made for Fontys hogeschool
