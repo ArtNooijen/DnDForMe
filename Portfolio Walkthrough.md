@@ -17,7 +17,7 @@ This is contained below:
 ### 1. Web application
 Learning outcome: You design and build user-friendly, full-stack web applications. 
 
-For designing DNDForMe i have created a few storyboard designs. Also i have done a UX Research Based on the DOT Framework.
+For designing DNDForMe i have created a few storyboard [designs and implemented a colour pallet research](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/Colour%20Pallet%20and%20storyboard%20designs.pdf). Also i have done a [UX Research](https://github.com/Artnooijen/DnDForMe/blob/main/Documentation/UX%20Research.pdf) Based on the DOT Framework.
 ### 2. Software quality
 Learning outcome: You use software tooling and methodology that continuously monitors and 
 
